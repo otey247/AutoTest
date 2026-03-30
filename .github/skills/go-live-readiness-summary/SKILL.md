@@ -40,7 +40,7 @@ Consolidate all quality evidence into a release readiness summary for go/no-go d
 ```markdown
 # Go-Live Readiness Summary: [Release Version]
 
-## Recommendation: [🟢 GO / 🔴 NO-GO / 🟡 CONDITIONAL GO]
+## Recommendation: [GO / NO-GO / CONDITIONAL GO]
 
 ## Quality Summary
 | Test Phase | Status | Pass Rate | Notes |

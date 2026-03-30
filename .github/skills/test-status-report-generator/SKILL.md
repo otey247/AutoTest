@@ -34,10 +34,10 @@ Generate consolidated test status reports that summarize progress, coverage, fin
 ## Metrics Dashboard
 | Metric | Value | Target | Status |
 |--------|-------|--------|--------|
-| Test cases executed | [N/M] | [100%] | [🟢/🟡/🔴] |
-| Pass rate | [X%] | [>95%] | [🟢/🟡/🔴] |
-| Open defects (Critical/High) | [N] | [0] | [🟢/🟡/🔴] |
-| Code coverage | [X%] | [>80%] | [🟢/🟡/🔴] |
+| Test cases executed | [N/M] | [100%] | [On Track / At Risk / Blocked] |
+| Pass rate | [X%] | [>95%] | [On Track / At Risk / Blocked] |
+| Open defects (Critical/High) | [N] | [0] | [On Track / At Risk / Blocked] |
+| Code coverage | [X%] | [>80%] | [On Track / At Risk / Blocked] |
 
 ## By Test Stream
 | Stream | Planned | Executed | Passed | Failed | Blocked |

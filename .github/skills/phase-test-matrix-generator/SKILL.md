@@ -49,16 +49,16 @@ Generate matrices that map test types to SDLC phases for comprehensive test plan
 
 | Test Type | Req/Plan | Design | Build | Integration | System | Acceptance | Deploy | Maintenance |
 |-----------|----------|--------|-------|-------------|--------|-----------|--------|-------------|
-| Requirements review | 🔵 | 🔘 | | | | | | |
-| Unit testing | | | 🔵 | 🔘 | | | | |
-| Integration testing | | | 🔘 | 🔵 | 🔘 | | | |
-| System testing | | | | | 🔵 | 🔘 | | |
-| Performance testing | | 🔘 | | | 🔵 | | | |
-| Security testing | 🔘 | 🔘 | 🔘 | 🔘 | 🔵 | 🔘 | | 🔘 |
-| UAT | | | | | | 🔵 | | |
-| Regression testing | | | | 🔘 | 🔘 | 🔘 | | 🔵 |
+| Requirements review | [P] | [S] | | | | | | |
+| Unit testing | | | [P] | [S] | | | | |
+| Integration testing | | | [S] | [P] | [S] | | | |
+| System testing | | | | | [P] | [S] | | |
+| Performance testing | | [S] | | | [P] | | | |
+| Security testing | [S] | [S] | [S] | [S] | [P] | [S] | | [S] |
+| UAT | | | | | | [P] | | |
+| Regression testing | | | | [S] | [S] | [S] | | [P] |
 
-Legend: 🔵 Primary | 🔘 Secondary
+Legend: [P] = Primary | [S] = Secondary
 
 ## Gaps Identified
 - [Phase with insufficient coverage]
