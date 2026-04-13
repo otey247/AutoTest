@@ -2,6 +2,14 @@
 
 A complete walkthrough of generating unit tests for a TypeScript module using Jest.
 
+## Table of Contents
+
+- [Source Code Under Test](#source-code-under-test)
+- [Step 1: Analyze the Code](#step-1-analyze-the-code)
+- [Step 2: Plan Test Cases](#step-2-plan-test-cases)
+- [Step 3: Generated Test File](#step-3-generated-test-file)
+- [Key Decisions Explained](#key-decisions-explained)
+
 ---
 
 ## Source Code Under Test

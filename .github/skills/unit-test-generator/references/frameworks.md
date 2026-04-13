@@ -2,6 +2,16 @@
 
 Detailed guidance for each supported test framework. Use the project's existing conventions first; fall back to these defaults when no precedent exists.
 
+## Table of Contents
+
+- [pytest (Python)](#pytest-python)
+- [Jest (TypeScript / JavaScript)](#jest-typescript--javascript)
+- [Vitest (TypeScript / JavaScript)](#vitest-typescript--javascript)
+- [JUnit 5 (Java)](#junit-5-java)
+- [xUnit (.NET / C#)](#xunit-net--c)
+- [Go testing](#go-testing)
+- [Mocha (JavaScript)](#mocha-javascript)
+
 ---
 
 ## pytest (Python)

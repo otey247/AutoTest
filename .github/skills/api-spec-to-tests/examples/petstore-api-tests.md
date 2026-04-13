@@ -2,6 +2,12 @@
 
 This example demonstrates deriving a complete test suite from a Petstore-style OpenAPI 3.0 specification. It walks through the spec fragment, the derived tests, and the reasoning behind each test.
 
+## Table of Contents
+
+- [Source Spec (Condensed)](#source-spec-condensed)
+- [Derived Test Suite](#derived-test-suite)
+- [Coverage Summary](#coverage-summary)
+
 ---
 
 ## Source Spec (Condensed)

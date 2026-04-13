@@ -2,6 +2,24 @@
 
 Ready-made templates for three plan scopes. Copy the appropriate template and fill in the bracketed placeholders.
 
+## Table of Contents
+
+- [Feature-Level Template](#feature-level-template)
+  - [Scope](#1-scope)
+  - [Risk Assessment](#2-risk-assessment)
+  - [Test Approach](#3-test-approach)
+  - [Entry Criteria](#4-entry-criteria)
+- [Sprint-Level Template](#sprint-level-template)
+  - [Sprint Scope Overview](#1-sprint-scope-overview)
+  - [Aggregated Risk View](#2-aggregated-risk-view)
+  - [Test Approach by Level](#3-test-approach-by-level)
+  - [Entry Criteria](#4-entry-criteria-1)
+- [Release-Level Template](#release-level-template)
+  - [Release Overview](#1-release-overview)
+  - [Scope](#2-scope)
+  - [Risk Assessment](#3-risk-assessment)
+  - [Exit Criteria](#7-exit-criteria-go--no-go)
+
 ---
 
 ## Feature-Level Template

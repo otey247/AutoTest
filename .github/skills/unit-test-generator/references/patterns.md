@@ -2,6 +2,15 @@
 
 Reusable patterns that apply across languages and frameworks. Choose the pattern that fits the testing situation.
 
+## Table of Contents
+
+- [Arrange–Act–Assert (AAA)](#arrangeactassert-aaa)
+- [Parameterized / Data-Driven Tests](#parameterized--data-driven-tests)
+- [Table-Driven Tests (Go Idiom)](#table-driven-tests-go-idiom)
+- [Property-Based Testing](#property-based-testing)
+- [Test Doubles: Mocks, Stubs, Fakes, and Spies](#test-doubles-mocks-stubs-fakes-and-spies)
+- [Builder / Factory Pattern for Test Data](#builder--factory-pattern-for-test-data)
+
 ---
 
 ## Arrange–Act–Assert (AAA)
